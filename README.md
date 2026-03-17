@@ -41,3 +41,11 @@ Program name
 5.  What is the purpose of the ping command?  Tests network connectivity between your system and another host.
 
 Measures response time (latency) and checks if the host is reachable.
+
+
+1.  You want to check the current working directory. Which command will you use? pwd
+2.  You want to create a directory called devops inside the home directory. Write the command.   mkdir devops
+3.  You want to check which process is using high CPU in the system. Which command will help? top
+4.  You want to check whether your server can connect to google.com. Which command will you use? ping google.com
+5.  You want to view the last 50 lines of a log file called application.log. Write the command.
+tail -n 50 application.log
